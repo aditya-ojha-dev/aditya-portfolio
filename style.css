@@ -149,7 +149,6 @@ body {
 
 #chhotiheadings h5 {
     text-transform: uppercase;
-    margin-top: 0.5vw;
     font-size: 1vw;
     text-align: right;
 }
@@ -168,6 +167,10 @@ body {
     color: #fff;
     text-transform: uppercase;
     text-decoration: none;
+    transition: 0.3s ease;
+}
+#herofooter a:hover {
+    color: #8b5cf6;
 }
 
 #herofooter #iconset {
@@ -396,6 +399,11 @@ body {
 @media (max-width: 768px) {
     #minicircle {
         display: none;
+    }
+
+    #chhotiheadings h5{
+        font-size: 3vw;
+
     }
 
     .project-card img {
