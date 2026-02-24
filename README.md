@@ -14,13 +14,11 @@ This project showcases my frontend development skills, projects and contact info
 
 ## 📸 Preview
 
-> 💡 *Tip: Add your portfolio screenshot here for better impact*
+### 💻 Desktop View
+![Portfolio Desktop](./assets/portfolioIMG.png)
 
-```
-![Portfolio Preview](./assets/portfolioIMG.png)
-```
-
-*(You can replace the image path if needed.)*
+### 📱 Mobile View
+![Portfolio Mobile](./assets/mobSnap.png)
 
 ---
 
@@ -71,14 +69,6 @@ git clone https://github.com/aditya-ojha-dev/your-repo-name.git
 ### 2️⃣ Open in browser
 
 Simply open `index.html` in your browser.
-
----
-
-## 📸 Projects Included
-
-* 🔧 Admin Dashboard (In Progress)
-* 🎵 WaveTune – Spotify inspired music player
-* 💼 Personal Portfolio Website
 
 ---
 
