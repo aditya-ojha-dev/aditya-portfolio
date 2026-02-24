@@ -1,46 +1,104 @@
-# 💼 Aditya Ojha - Developer Portfolio
+# 🚀 Aditya Ojha - Portfolio Website
 
-Welcome to my personal developer portfolio website.  
-This portfolio showcases my frontend projects, technical skills, and deployment experience.
+A modern, responsive and animated personal portfolio website built using **HTML, CSS, JavaScript, GSAP and Locomotive Scroll**.
 
-🌐 **Live Website:** https://YOUR-PORTFOLIO-LINK.vercel.app  
-🎵 **Featured Project (WaveTune):** https://YOUR-WAVETUNE-LINK.vercel.app  
+This project showcases my frontend development skills, projects and contact information with smooth animations and a clean UI.
 
 ---
 
-## 🚀 About The Project
+## 🌐 Live Demo
 
-This is a fully responsive personal portfolio website built to present:
-
-- My frontend development projects
-- Technical skills and core concepts
-- Live deployed applications
-- Contact information
-
-The goal of this project is to maintain a clean UI, strong visual hierarchy, and a professional developer presence online.
+👉 https://aditya-portfolio-seven-rho.vercel.app/
 
 ---
 
-## 🛠️ Tech Stack
+## 📸 Preview
 
-- HTML5
-- CSS3
-- JavaScript
-- Responsive Web Design
-- Git & GitHub
-- Vercel (Deployment)
+> 💡 *Tip: Add your portfolio screenshot here for better impact*
+
+```
+![Portfolio Preview](./assets/portfolioIMG.png)
+```
+
+*(You can replace the image path if needed.)*
 
 ---
 
 ## ✨ Features
 
-- Fully Responsive Design
-- Smooth Animations & Hover Effects
-- Project Showcase Section
-- Live Project Links
-- Clean & Minimal UI
-- Optimized Layout Structure
+* 🎯 Modern dark UI
+* ⚡ Smooth scrolling using Locomotive Scroll
+* 🎬 GSAP powered animations
+* 🖱️ Custom animated cursor
+* 📱 Fully responsive design
+* 🧩 Project showcase section
+* 📬 Contact section
+* 🎨 Clean and minimal layout
 
 ---
 
-## 📂 Folder Structure
+## 🛠️ Tech Stack
+
+* HTML5
+* CSS3
+* JavaScript (Vanilla JS)
+* GSAP
+* Locomotive Scroll
+* Vercel (Deployment)
+
+---
+
+## 📂 Project Structure
+
+```
+├── index.html
+├── style.css
+├── loco.css
+├── script.js
+└── assets/
+```
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/aditya-ojha-dev/your-repo-name.git
+```
+
+### 2️⃣ Open in browser
+
+Simply open `index.html` in your browser.
+
+---
+
+## 📸 Projects Included
+
+* 🔧 Admin Dashboard (In Progress)
+* 🎵 WaveTune – Spotify inspired music player
+* 💼 Personal Portfolio Website
+
+---
+
+## 👨‍💻 About Me
+
+I am a Frontend Developer passionate about building responsive and interactive web applications. Currently pursuing B.Tech at **KIIT University, Bhubaneswar**.
+
+* 💼 Open to Internship Opportunities
+* 📅 Available from April 2026
+
+---
+
+## 📬 Contact
+
+* 📧 Email: [adi27ojha@gmail.com](mailto:adi27ojha@gmail.com)
+* 💼 LinkedIn: https://linkedin.com/in/adityaojha27
+* 🐙 GitHub: https://github.com/aditya-ojha-dev
+
+---
+
+## ⭐ If you like this project
+
+Give it a ⭐ on GitHub — it motivates me to build more!
