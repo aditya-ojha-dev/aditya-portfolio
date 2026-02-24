@@ -14,11 +14,11 @@ This project showcases my frontend development skills, projects and contact info
 
 ## 📸 Preview
 
-### 💻 Desktop View
-![Portfolio Desktop](./assets/portfolioIMG.png)
-
-### 📱 Mobile View
-![Portfolio Mobile](./assets/mobSnap.png)
+<p align="center">
+  <img src="./assets/portfolioIMG.png" alt="Portfolio Desktop" width="650"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/mobSnap.png" alt="Portfolio Mobile" width="220"/>
+</p>
 
 ---
 
